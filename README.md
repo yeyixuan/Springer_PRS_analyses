@@ -1,2 +1,8 @@
-# Springer_PRS_Analyses
-Data and codes for the analyses in the Springer book "Precision Medicine: Methods and Applications", chapter "Leveraging functional annotations improves cross-population genetic risk prediction".
+## Leveraging functional annotations improves cross-population genetic risk prediction
+
+**Abstract** The clinical use of polygenic risk scores (PRS) in non-European popula- tions is hindered by the Eurocentric biases in genetic studies and the poor transfer- ability of genetic results across populations. As functional annotations are commonly used to prioritize signals in post-GWAS analysis and have shown potential in improving the portability of the standard PRS (P+T PRS), here we further examine the benefits of leveraging functional annotations in more sophisticated and accurate PRS methods for cross-population genetic risk prediction. We collected five tiers of annotations and employed AnnoPred, which is a Bayesian framework leveraging functional annotations on the basis of LDPred. Through the analysis of 339,584 unrelated individuals in the UK Biobank, we showed that both LDPred and AnnoPred were superior than P+T PRS; and after leveraging functional annotations, AnnoPred consistently outperformed LDPred across eight traits/diseases and four populations that were investigated. These results illustrate the superiority of more sophisticated PRS models over the standard PRS and further demonstrate the benefit of incorpo- rating functional annotations in improving cross-population prediction.
+
+---
+Here are the correponding data and codes for the analyses in the article. Please note that, we cannot share the individual-level data from UK Biobank (https://www.ukbiobank.ac.uk) here due to the data privacy issue. 
+
+Please check the full article in the Springer book (available soon) entitled **Precision Medicine: Methods and Applications** for more details.
