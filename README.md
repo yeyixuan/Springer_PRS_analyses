@@ -5,4 +5,4 @@
 ---
 Here are the correponding data and codes for the analyses in the article. Please note that, we cannot share the individual-level data from UK Biobank (https://www.ukbiobank.ac.uk) here due to the data privacy issue. 
 
-Please check the full article in the Springer book (available soon) entitled **Precision Medicine: Methods and Applications** for more details.
+The full article will be available soon in the Springer book entitled **Precision Medicine: Methods and Applications**.
